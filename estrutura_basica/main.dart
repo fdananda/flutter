@@ -4,7 +4,7 @@ void main() {
   runApp(MaterialApp(
     title: "Título do app",
     home: Container(
-      color: Colors.black12,
+      color: Colors.white,
     ),
   ));
 }
