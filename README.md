@@ -10,3 +10,4 @@ Códigos Flutter
 <li><b>Padding, padding e margin</b> - (21/05/2021)<br>https://github.com/fdananda/flutter/tree/main/padding</li>
 <li><b>MainAxisAlignment e CrossAxisAlignment</b> - (21/05/2021)<br>https://github.com/fdananda/flutter/tree/main/alignment</li>
 <li><b>Image</b> - (16/09/2021)<br>https://github.com/fdananda/flutter/tree/main/image</li>
+<li><b>Scaffold (estrutura básica)</b> - (16/09/2021)<br>https://github.com/fdananda/flutter/tree/main/scaffold</li>
